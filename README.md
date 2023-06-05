@@ -60,10 +60,10 @@ npm install
 
 [Demo Video](https://drive.google.com/file/d/1GX-LYl4wIX9yAw-ySlN5Byw6MP1KLUfx/view)
 
-[screenShot](./lib/1.png)
-[screenShot](./lib/2.png)
-[screenShot](./lib/3.png)
-[screenShot](./lib/4.png)
+![screenShot](./lib/1.png)
+![screenShot](./lib/2.png)
+![screenShot](./lib/3.png)
+![screenShot](./lib/4.png)
 
 
 
