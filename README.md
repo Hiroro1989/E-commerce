@@ -5,7 +5,6 @@ This is the backend application for an e-commerce website. It provides API endpo
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Demo](#Demo)
 
